@@ -1,2 +1,2 @@
 # ZooInspector
-ZK数据观看
+ZK数据查看
